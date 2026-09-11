@@ -1,4 +1,4 @@
-# plist-dict-converter
+# Dictionary-Converter
 
 iOSユーザー辞書（.plist）・CSV・Gboard辞書形式（dictionary.txt）を
 **相互に変換**できるWebアプリです。
